@@ -1,9 +1,6 @@
 # ChatGPT-Slide-Prompts
 Slide Inspiration: ChatGPT Prompts for Engaging Content
 
-# ChatGPT-Article-Prompts
-## Article Inspiration: ChatGPT Prompts for Engaging Content
-
 # How to Contribute
 We welcome contributions to our open source project! Here's how you can get started:
 
